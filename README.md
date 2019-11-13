@@ -1,5 +1,6 @@
-# KTListPopup
+# Download - https://github.com/tryWabbit/KTListPopup/archive/master.zip
 
+# KTListPopup
 
 ![Swift](https://img.shields.io/badge/Swift-v5.0-orange.svg)
 ![Xcode](https://img.shields.io/badge/XCode-10.2-blue.svg)
